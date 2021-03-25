@@ -1,1 +1,1 @@
-# OMORUYI-DEMO-APP
+# java-demo
